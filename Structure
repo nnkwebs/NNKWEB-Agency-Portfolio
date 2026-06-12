@@ -1,0 +1,16 @@
+NNKWEB-Agency-Portfolio
+
+├── README.md
+├── case-studies
+│   ├── personal-website.md
+│   ├── business-website.md
+│   ├── ecommerce-website.md
+│   ├── branding.md
+│   ├── seo.md
+│   ├── whatsapp-automation.md
+│
+├── assets
+│   ├── screenshots
+│   ├── mockups
+│
+└── portfolio
